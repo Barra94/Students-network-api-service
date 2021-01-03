@@ -1,6 +1,6 @@
 ## Student Network API service
 
-The Student Network API service is an API service that allows the students from Fontys University of applied science to connect with each other. It allows students to create projects with several free spots allowing the other interested students to request to join the project. A student who owns a project can accept or reject the join request to the project based on the student's skills and endorsements. A student who wants to join a project can search for a project with a free spot and filter the results that match his/her skills. 
+The Student Network API service is an API service Made with Laravel that allows the students from Fontys University of applied science to connect with each other. It allows students to create projects with several free spots allowing the other interested students to request to join the project. A student who owns a project can accept or reject the join request to the project based on the student's skills and endorsements. A student who wants to join a project can search for a project with a free spot and filter the results that match his/her skills. 
 
 ## Features
 
